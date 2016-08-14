@@ -25,6 +25,15 @@ public class User {
 	public void setHomeaddress(String homeaddress) {
 		this.homeaddress = homeaddress;
 	}
+	private Integer age;
+	
+	
+	public Integer getAge() {
+		return age;
+	}
+	public void setAge(Integer age) {
+		this.age = age;
+	}
 	public String getProvince() {
 		return province;
 	}
