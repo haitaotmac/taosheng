@@ -12,6 +12,14 @@ public class User {
 	
 	private String city;
 	
+	private String school;
+	
+	public String getSchool() {
+		return school;
+	}
+	public void setSchool(String school) {
+		this.school = school;
+	}
 	public String getCity() {
 		return city;
 	}
