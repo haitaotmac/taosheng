@@ -14,6 +14,15 @@ public class User {
 	
 	private String school;
 	
+	private String province;
+	
+	
+	public String getProvince() {
+		return province;
+	}
+	public void setProvince(String province) {
+		this.province = province;
+	}
 	public String getSchool() {
 		return school;
 	}
