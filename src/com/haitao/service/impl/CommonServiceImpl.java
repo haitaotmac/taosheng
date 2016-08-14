@@ -14,4 +14,39 @@ public class CommonServiceImpl implements ICommonService {
 		System.out.println("update");
 	}
 
+	@Override
+	public void delete() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void find() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void test1() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void test2() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void test3() {
+		
+	}
+
+	@Override
+	public void test4() {
+		System.out.println("asdfasdf");
+		System.out.println("asdfasd222222222222222f");
+	}
+
 }
