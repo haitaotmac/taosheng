@@ -16,7 +16,15 @@ public class User {
 	
 	private String province;
 	
+	private String homeaddress;
 	
+	
+	public String getHomeaddress() {
+		return homeaddress;
+	}
+	public void setHomeaddress(String homeaddress) {
+		this.homeaddress = homeaddress;
+	}
 	public String getProvince() {
 		return province;
 	}
