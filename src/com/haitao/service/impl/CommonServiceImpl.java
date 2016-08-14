@@ -11,8 +11,7 @@ public class CommonServiceImpl implements ICommonService {
 
 	@Override
 	public void update() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("update");
 	}
 
 	@Override
