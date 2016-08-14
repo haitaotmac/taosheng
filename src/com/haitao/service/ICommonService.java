@@ -14,4 +14,6 @@ public interface ICommonService {
 	public abstract void test2();
 	
 	public abstract void test3();
+	
+	public abstract void test4();
 }

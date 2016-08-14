@@ -44,4 +44,9 @@ public class CommonServiceImpl implements ICommonService {
 		
 	}
 
+	@Override
+	public void test4() {
+		
+	}
+
 }
