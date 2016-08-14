@@ -9,4 +9,10 @@ public class CommonServiceImpl implements ICommonService {
 		System.out.println("test ............");
 	}
 
+	@Override
+	public void update() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
