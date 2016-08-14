@@ -46,7 +46,7 @@ public class CommonServiceImpl implements ICommonService {
 
 	@Override
 	public void test4() {
-		
+		System.out.println("asdfasdf");
 	}
 
 }
