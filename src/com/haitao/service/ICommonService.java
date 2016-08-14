@@ -5,4 +5,5 @@ public interface ICommonService {
 	
 	public abstract void update();
 	
+	public abstract void delete();
 }

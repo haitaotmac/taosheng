@@ -15,4 +15,10 @@ public class CommonServiceImpl implements ICommonService {
 		
 	}
 
+	@Override
+	public void delete() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
