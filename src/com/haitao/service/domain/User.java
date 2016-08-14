@@ -8,6 +8,14 @@ public class User {
 	
 	private String salt;
 	
+	private String address;
+	
+	public String getAddress() {
+		return address;
+	}
+	public void setAddress(String address) {
+		this.address = address;
+	}
 	public String getSalt() {
 		return salt;
 	}
