@@ -6,7 +6,14 @@ public class User {
 	
 	private String cellphone;
 	
+	private String salt;
 	
+	public String getSalt() {
+		return salt;
+	}
+	public void setSalt(String salt) {
+		this.salt = salt;
+	}
 	public String getCellphone() {
 		return cellphone;
 	}
