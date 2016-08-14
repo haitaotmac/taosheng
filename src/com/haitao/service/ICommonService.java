@@ -6,4 +6,6 @@ public interface ICommonService {
 	public abstract void update();
 	
 	public abstract void delete();
+	
+	public abstract void find();
 }

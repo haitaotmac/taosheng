@@ -21,4 +21,10 @@ public class CommonServiceImpl implements ICommonService {
 		
 	}
 
+	@Override
+	public void find() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
