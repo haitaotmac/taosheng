@@ -3,6 +3,16 @@ package com.haitao.service.domain;
 public class User {
 	private String name;
 	private String password;
+	
+	private String cellphone;
+	
+	
+	public String getCellphone() {
+		return cellphone;
+	}
+	public void setCellphone(String cellphone) {
+		this.cellphone = cellphone;
+	}
 	public String getName() {
 		return name;
 	}
