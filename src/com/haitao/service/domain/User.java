@@ -10,6 +10,14 @@ public class User {
 	
 	private String address;
 	
+	private String city;
+	
+	public String getCity() {
+		return city;
+	}
+	public void setCity(String city) {
+		this.city = city;
+	}
 	public String getAddress() {
 		return address;
 	}
