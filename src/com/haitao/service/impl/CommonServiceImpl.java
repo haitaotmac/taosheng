@@ -27,4 +27,10 @@ public class CommonServiceImpl implements ICommonService {
 		
 	}
 
+	@Override
+	public void test1() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

@@ -8,4 +8,6 @@ public interface ICommonService {
 	public abstract void delete();
 	
 	public abstract void find();
+	
+	public abstract void test1();
 }
